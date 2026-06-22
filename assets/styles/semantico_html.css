@@ -1,37 +1,107 @@
 header {
     background-color: blue;
-}
-h1 {
-    color:white
-}
-nav  { 
-    background-color: orange;
-}
-section  {  
-    background-color: yellow;
-}
-h2 { 
-    color:black
-}
-article { 
-    background-color: green;
-}
-h3 { 
-    color:black
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 50px;
+    background-clip: content-box;
+    color: white;
 }
 
-p { 
-    color:black
+h1 {
+    background-color: blue;
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 50px;
+    background-clip: content-box;
+    color: white;
 }
-aside  {  
+
+nav {
+    background-color: orange;
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 50px;
+    background-clip: content-box;
+    color: white;
+}
+
+section {
+    background-color: yellow;
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 50px;
+    background-clip: content-box;
+    color: white;
+}
+
+h2 {
+    background-color: blue;
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 50px;
+    background-clip: content-box;
+    color: white;
+}
+
+article {
+    background-color: green;
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 50px;
+    background-clip: content-box;
+    color: white;
+}
+
+h3 {
+    color: black;
+    background-color: blue;
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 50px;
+    background-clip: content-box;
+}
+
+p {
+    color: black;
+    background-color: blue;
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 50px;
+    background-clip: content-box;
+}
+
+aside {
     background-color: purple;
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 50px;
+    background-clip: content-box;
+    color: white;
 }
-h4 { 
-    color:white
+
+h4 {
+    color: white;
+    background-color: blue;
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 50px;
+    background-clip: content-box;
 }
-footer  {  
+
+footer {
     background-color: darkslategrey;
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 50px;
+    background-clip: content-box;
+    color: white;
 }
-h5 { 
-    color:white
+
+h5 {
+    color: white;
+    background-color: blue;
+    border: 10px solid lightblue;
+    padding: 10px;
+    margin: 50px;
+    background-clip: content-box;
 }
