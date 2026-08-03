@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title> Tabela do html </title>
+    </head>
+    <body>
+        <h1> tabela dos horários de informática </h1>
+        <table style="width:100%">
+            <tr>
+                <td>Dia</td>
+                <td>Horário</td>
+                <td>Disciplina</td>
+                <td>Turma</td>
+                <td>Local</td>
+            </tr>
+            <tr>
+                <td>Segundas-Feira</td>
+                <td>13:30-18:00</td>
+                <td>Tecnologias Web e Fundamentos do Design</td>
+                <td>INF1</td>
+                <td>Láboratório de Informática</td>
+            </tr>
+            <tr>
+                <td>Terças-Feira</td>
+                <td>13:30-18:00</td>
+                <td>História e Português</td>
+                <td>INF1</td>
+                <td>Sala de aula</td>
+            </tr>
+             <tr>
+                <td>Quartas-Feira</td>
+                <td>13:30-18:00</td>
+                <td>Filosofia e Artes</td>
+                <td>INF1</td>
+                <td>Sala de aula e Quiosque de artes</td>
+            </tr>
+            <tr>
+                <td>Quintas-Feira</td>
+                <td>13:30-18:00</td>
+                <td>Educação Física e Fundamentos da Computação</td>
+                <td>INF1</td>
+                <td>Quadra e sala de aula</td>
+            </tr>
+            <tr>
+                <td>Sextas-Feira</td>
+                <td>13:30-18:00</td>
+                <td>Inglês e Matemática</td>
+                <td>INF1</td>
+                <td>Quiosque do centro de línguas e sala de aula</td>
+            </tr>
+       </table>
+</html>
