@@ -1,12 +1,16 @@
 .container {
   display: flex;
-  flex-direction: row;
   justify-content: center;
-  background-color:gray;
+  flex-direction: row;
+  background-color: gray;
 }
-container div {
+
+.container div {
   background-color: red;
-  width: 20px;
+  width: 50px;
+  height: 50px;
   margin: 50px;
   padding: 50px;
+  text-align: center;  
+
 }
